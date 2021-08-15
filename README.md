@@ -32,8 +32,8 @@ For example, database name, user name, password, etc.
 ## Usage
 
 ```bash
-git clone https://github.com/kbanchi1111/nodejs_sample.git
-cd nodejs_sample/app
+git clone https://github.com/kbanchi-frontend/spartacamp-practice-nodejs.git
+cd app/
 node app.js
 ```
 
