@@ -1,4 +1,4 @@
-# nodejs_progate
+# spartacamp-practice-nodejs
 
 This is Progate Node.js sample repository.
 This application provides simple function about shopping list.
